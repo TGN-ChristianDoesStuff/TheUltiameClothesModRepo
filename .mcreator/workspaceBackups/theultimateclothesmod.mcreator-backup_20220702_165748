@@ -1,0 +1,1303 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "SuitArmor",
+      "type": "armor",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": false,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "SuitArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SuitArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SuitArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Blue_ClothesArmor",
+      "type": "armor",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": false,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Blue_ClothesArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Blue_ClothesArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Blue_ClothesArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Blue_ClothesArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Clothes",
+      "type": "tab",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BlackFabric",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Blue_Fabric",
+      "type": "item",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Red_Fabric",
+      "type": "item",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Yellow_Fabric",
+      "type": "item",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Pink_Fabric",
+      "type": "item",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Purple_Fabric",
+      "type": "item",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Orange_Fabric",
+      "type": "item",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Green_Fabric",
+      "type": "item",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BlackFabricRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "RedFabricRecipe",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "OrangeFabricRecipe",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "YellowFabricRecipe",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "GreenFabricRecipe",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BlueFabricRecipe",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PurpleFabricRecipe",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PinkFabricRecipe",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Red_ClothesArmor",
+      "type": "armor",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Red_ClothesArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Red_ClothesArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Red_ClothesArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Red_ClothesArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Orange_ClothesArmor",
+      "type": "armor",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Orange_ClothesArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Orange_ClothesArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Orange_ClothesArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Orange_ClothesArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Yellow_ClothesArmor",
+      "type": "armor",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Yellow_ClothesArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Yellow_ClothesArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Yellow_ClothesArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Yellow_ClothesArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Green_ClothesArmor",
+      "type": "armor",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Green_ClothesArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Green_ClothesArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Green_ClothesArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Green_ClothesArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Purple_ClothesArmor",
+      "type": "armor",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Purple_ClothesArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Purple_ClothesArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Purple_ClothesArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Purple_ClothesArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Pink_ClothesArmor",
+      "type": "armor",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Pink_ClothesArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Pink_ClothesArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Pink_ClothesArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Pink_ClothesArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BlackArmor",
+      "type": "armor",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": false,
+        "eb": false,
+        "ec": false
+      }
+    },
+    {
+      "name": "BlackArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BlackArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BlackArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BlackArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Red_BandanaArmor",
+      "type": "armor",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": false,
+        "eb": false,
+        "ec": false
+      }
+    },
+    {
+      "name": "Red_BandanaArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Red_BandanaArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Red_BandanaArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Red_BandanaArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Black_Clothes_V3_SetArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Black_Clothes_V3_SetArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Black_Clothes_V3_SetArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Black_Clothes_2Armor",
+      "type": "armor",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Black_Clothes_2ArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Black_Clothes_2ArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Black_Clothes_2ArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Black_Clothes_2ArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Red_Clothes_2Armor",
+      "type": "armor",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Red_Clothes_2ArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Red_Clothes_2ArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Red_Clothes_2ArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Red_Clothes_2ArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Orange_Clothes_2Armor",
+      "type": "armor",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Orange_Clothes_2ArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Orange_Clothes_2ArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Orange_Clothes_2ArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Orange_Clothes_2ArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Yellow_clothes_2Armor",
+      "type": "armor",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Yellow_clothes_2ArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Yellow_clothes_2ArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Yellow_clothes_2ArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Yellow_clothes_2ArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "GreenArmor",
+      "type": "armor",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "GreenArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "GreenArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "GreenArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "GreenArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BlueArmor",
+      "type": "armor",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "BlueArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BlueArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BlueArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BlueArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "FabricPlant",
+      "type": "plant",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Black_FlipflopsArmor",
+      "type": "armor",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": false,
+        "el": false,
+        "eb": true,
+        "ec": false
+      }
+    },
+    {
+      "name": "Black_FlipflopsArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Red_flipflopsArmor",
+      "type": "armor",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_flipflops_armor",
+      "metadata": {
+        "eh": false,
+        "el": false,
+        "eb": true,
+        "ec": false
+      }
+    },
+    {
+      "name": "Red_flipflopsArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_flipflops_armor_helmet_recipe"
+    },
+    {
+      "name": "Red_flipflopsArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_flipflops_armor_body_recipe"
+    },
+    {
+      "name": "Red_flipflopsArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_flipflops_armor_leggings_recipe"
+    },
+    {
+      "name": "Red_flipflopsArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_flipflops_armor_boots_recipe"
+    },
+    {
+      "name": "Orange_FlipflopsArmor",
+      "type": "armor",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orange_flipflops_armor",
+      "metadata": {
+        "eh": false,
+        "el": false,
+        "eb": true,
+        "ec": false
+      }
+    },
+    {
+      "name": "Orange_FlipflopsArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orange_flipflops_armor_helmet_recipe"
+    },
+    {
+      "name": "Orange_FlipflopsArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orange_flipflops_armor_body_recipe"
+    },
+    {
+      "name": "Orange_FlipflopsArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orange_flipflops_armor_leggings_recipe"
+    },
+    {
+      "name": "Orange_FlipflopsArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orange_flipflops_armor_boots_recipe"
+    },
+    {
+      "name": "Technoblade_CrownArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "technoblade_crown_armor_helmet_recipe"
+    },
+    {
+      "name": "Technoblade_CrownArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "technoblade_crown_armor_body_recipe"
+    },
+    {
+      "name": "Technoblade_CrownArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "technoblade_crown_armor_leggings_recipe"
+    },
+    {
+      "name": "Technoblade_CrownArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "technoblade_crown_armor_boots_recipe"
+    },
+    {
+      "name": "TechnobladeArmor",
+      "type": "armor",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "technoblade_armor",
+      "metadata": {
+        "eh": true,
+        "el": false,
+        "eb": false,
+        "ec": false
+      }
+    },
+    {
+      "name": "TechnobladeArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "technoblade_armor_helmet_recipe"
+    },
+    {
+      "name": "TechnobladeArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "technoblade_armor_body_recipe"
+    },
+    {
+      "name": "TechnobladeArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "technoblade_armor_leggings_recipe"
+    },
+    {
+      "name": "TechnobladeArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "technoblade_armor_boots_recipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.purple_fabric.name": "Black Fabric",
+      "item.red_clothesarmorhelmet.name": "Red_Clothes Helmet",
+      "item.theultimateclothesmod.pink_clothesarmor_leggings": "Pink_Clothes Leggings",
+      "item.yellow_clothes_2armorhelmet.name": "Yellow Hood",
+      "item.theultimateclothesmod.greenarmor_chestplate": "Green Jacket",
+      "item.theultimateclothesmod.red_clothes_2armor_helmet": "Red Hood",
+      "item.theultimateclothesmod.orange_clothesarmor_helmet": "Orange_Clothes Helmet",
+      "item.theultimateclothesmod.green_clothesarmor_chestplate": "Green_Clothes Chestplate",
+      "item.theultimateclothesmod.red_bandanaarmor_boots": "Red_Bandana Boots",
+      "item.theultimateclothesmod.purple_clothesarmor_chestplate": "Purple_Clothes Chestplate",
+      "item.theultimateclothesmod.pink_fabric": "Black Fabric",
+      "item.suitarmorbody.name": "Suit Tuxedo",
+      "item.yellow_clothesarmorbody.name": "Yellow Shirt",
+      "item.greenarmorlegs.name": "Green Shorts",
+      "item.theultimateclothesmod.bluearmor_helmet": "Blue Hood",
+      "item.theultimateclothesmod.purple_clothesarmor_helmet": "Purple_Clothes Helmet",
+      "item.orange_clothesarmorhelmet.name": "Orange_Clothes Helmet",
+      "item.theultimateclothesmod.technoblade_armor_leggings": "Technoblade Leggings",
+      "item.theultimateclothesmod.red_bandanaarmor_helmet": "Red Mask",
+      "item.theultimateclothesmod.purple_clothesarmor_leggings": "Purple_Clothes Leggings",
+      "item.blue_clothesarmorhelmet.name": "Blue Hat",
+      "item.theultimateclothesmod.yellow_clothesarmor_leggings": "Khakis",
+      "item.black_clothes_2armorhelmet.name": "Black Hood",
+      "item.black_flipflopsarmorboots.name": "Black Flipflops",
+      "item.theultimateclothesmod.red_bandanaarmor_chestplate": "Red_Bandana Chestplate",
+      "item.theultimateclothesmod.pink_clothesarmor_helmet": "Pink_Clothes Helmet",
+      "item.theultimateclothesmod.purple_clothesarmor_boots": "Purple_Clothes Boots",
+      "item.theultimateclothesmod.orange_flipflops_armor_boots": "Orange Flipflops",
+      "item.theultimateclothesmod.yellow_fabric": "Black Fabric",
+      "item.theultimateclothesmod.blackarmor_leggings": "Black Leggings",
+      "item.theultimateclothesmod.red_flipflops_armor_leggings": "Red_flipflops Leggings",
+      "item.red_fabric.name": "Black Fabric",
+      "item.bluearmorlegs.name": "Blue Shorts",
+      "item.theultimateclothesmod.red_clothesarmor_helmet": "Red_Clothes Helmet",
+      "item.theultimateclothesmod.red_bandanaarmor_leggings": "Red_Bandana Leggings",
+      "item.theultimateclothesmod.yellow_clothes_2armor_helmet": "Yellow Hood",
+      "item.greenarmorbody.name": "Green Jacket",
+      "item.blackarmorlegs.name": "Black Leggings",
+      "item.theultimateclothesmod.purple_fabric": "Black Fabric",
+      "item.black_clothes_2armorboots.name": "Black Boots",
+      "item.green_clothesarmorhelmet.name": "Green_Clothes Helmet",
+      "item.suitarmorlegs.name": "Dress Pants",
+      "item.orange_clothesarmorlegs.name": "Orange_Clothes Leggings",
+      "block.theultimateclothesmod.fabricplant": "Fabric Plant",
+      "item.theultimateclothesmod.blue_clothesarmor_helmet": "Blue Hat",
+      "item.blue_clothesarmorlegs.name": "Jeans",
+      "item.yellow_clothes_2armorboots.name": "Yellow Boots",
+      "item.theultimateclothesmod.red_clothesarmor_chestplate": "Red_Clothes Chestplate",
+      "item.pink_clothesarmorlegs.name": "Pink_Clothes Leggings",
+      "item.green_fabric.name": "Black Fabric",
+      "item.theultimateclothesmod.suitarmor_chestplate": "Suit Tuxedo",
+      "item.theultimateclothesmod.blue_clothesarmor_chestplate": "Blue Shirt",
+      "item.blackarmorhelmet.name": "Black Mask",
+      "item.purple_clothesarmorbody.name": "Purple_Clothes Chestplate",
+      "item.theultimateclothesmod.technoblade_armor_helmet": "Technoblade Crown",
+      "item.theultimateclothesmod.suitarmor_leggings": "Dress Pants",
+      "item.theultimateclothesmod.bluearmor_chestplate": "Blue Jacket",
+      "item.pink_clothesarmorboots.name": "Pink_Clothes Boots",
+      "item.theultimateclothesmod.technoblade_armor_boots": "Technoblade Boots",
+      "item.theultimateclothesmod.orange_clothesarmor_chestplate": "Orange_Clothes Chestplate",
+      "item.theultimateclothesmod.blackarmor_helmet": "Black Mask",
+      "item.theultimateclothesmod.red_flipflops_armor_chestplate": "Red_flipflops Chestplate",
+      "item.purple_clothesarmorhelmet.name": "Purple_Clothes Helmet",
+      "item.theultimateclothesmod.green_clothesarmor_leggings": "Green_Clothes Leggings",
+      "item.theultimateclothesmod.red_clothes_2armor_leggings": "Red Shorts",
+      "item.theultimateclothesmod.orange_clothes_2armor_leggings": "Orange Shorts",
+      "item.red_bandanaarmorboots.name": "Red_Bandana Boots",
+      "item.orange_clothes_2armorboots.name": "Orange Boots",
+      "item.suitarmorboots.name": "Black Shoes",
+      "item.pink_fabric.name": "Black Fabric",
+      "item.orange_clothes_2armorbody.name": "Orange Hoodie",
+      "item.purple_clothesarmorlegs.name": "Purple_Clothes Leggings",
+      "item.theultimateclothesmod.orange_clothes_2armor_boots": "Orange Boots",
+      "item.theultimateclothesmod.orange_clothes_2armor_helmet": "Orange Hood",
+      "item.green_clothesarmorboots.name": "Green_Clothes Boots",
+      "item.theultimateclothesmod.red_clothes_2armor_chestplate": "Red Jacket",
+      "item.red_clothesarmorbody.name": "Red_Clothes Chestplate",
+      "item.theultimateclothesmod.black_flipflopsarmor_boots": "Black Flipflops",
+      "item.orange_clothes_2armorhelmet.name": "Orange Hood",
+      "item.bluearmorboots.name": "Blue Boots",
+      "item.theultimateclothesmod.blackfabric": "Black Fabric",
+      "item.theultimateclothesmod.bluearmor_boots": "Blue Boots",
+      "item.blackarmorbody.name": "Black Chestplate",
+      "item.theultimateclothesmod.black_flipflopsarmor_helmet": "Black_Flipflops Helmet",
+      "item.theultimateclothesmod.yellow_clothesarmor_helmet": "Yellow Hat",
+      "item.theultimateclothesmod.greenarmor_leggings": "Green Shorts",
+      "item.theultimateclothesmod.red_clothesarmor_leggings": "Red_Clothes Leggings",
+      "item.theultimateclothesmod.black_flipflopsarmor_leggings": "Black_Flipflops Leggings",
+      "item.blue_clothesarmorbody.name": "Blue Shirt",
+      "item.theultimateclothesmod.red_fabric": "Black Fabric",
+      "item.blue_clothesarmorboots.name": "Blue Shoes",
+      "item.yellow_clothesarmorboots.name": "Yellow Shoes",
+      "item.theultimateclothesmod.bluearmor_leggings": "Blue Shorts",
+      "item.theultimateclothesmod.orange_clothes_2armor_chestplate": "Orange Hoodie",
+      "item.suitarmorhelmet.name": "Suit Helmet",
+      "item.theultimateclothesmod.orange_flipflops_armor_helmet": "Orange_Flipflops Helmet",
+      "item.orange_clothesarmorboots.name": "Orange_Clothes Boots",
+      "item.yellow_clothes_2armorlegs.name": "Yellow Shorts",
+      "item.greenarmorhelmet.name": "Green Hood",
+      "item.theultimateclothesmod.blue_fabric": "Black Fabric",
+      "itemGroup.tabclothes": "Clothes",
+      "item.theultimateclothesmod.pink_clothesarmor_boots": "Pink_Clothes Boots",
+      "item.theultimateclothesmod.red_flipflops_armor_boots": "Red Flipflops",
+      "item.theultimateclothesmod.green_fabric": "Black Fabric",
+      "item.yellow_clothes_2armorbody.name": "Yellow Jacket",
+      "item.theultimateclothesmod.suitarmor_boots": "Black Shoes",
+      "item.theultimateclothesmod.red_clothesarmor_boots": "Red_Clothes Boots",
+      "item.theultimateclothesmod.black_clothes_2armor_chestplate": "Black Jacket",
+      "item.blue_fabric.name": "Black Fabric",
+      "item.blackfabric.name": "Black Fabric",
+      "item.theultimateclothesmod.red_clothes_2armor_boots": "Red Boots",
+      "item.red_bandanaarmorbody.name": "Red_Bandana Chestplate",
+      "item.bluearmorhelmet.name": "Blue Hood",
+      "item.red_clothesarmorboots.name": "Red_Clothes Boots",
+      "item.theultimateclothesmod.blackarmor_boots": "Black Boots",
+      "item.black_clothes_2armorbody.name": "Black Jacket",
+      "item.theultimateclothesmod.blackarmor_chestplate": "Black Chestplate",
+      "item.greenarmorboots.name": "Green Boots",
+      "item.red_bandanaarmorhelmet.name": "Red Mask",
+      "item.purple_clothesarmorboots.name": "Purple_Clothes Boots",
+      "item.theultimateclothesmod.orange_flipflops_armor_chestplate": "Orange_Flipflops Chestplate",
+      "tile.fabricplant.name": "Fabric Plant",
+      "item.green_clothesarmorlegs.name": "Green_Clothes Leggings",
+      "item.theultimateclothesmod.greenarmor_boots": "Green Boots",
+      "item.theultimateclothesmod.green_clothesarmor_boots": "Green_Clothes Boots",
+      "item.red_clothes_2armorboots.name": "Red Boots",
+      "item.theultimateclothesmod.suitarmor_helmet": "Suit Helmet",
+      "item.black_flipflopsarmorlegs.name": "Black_Flipflops Leggings",
+      "item.red_clothesarmorlegs.name": "Red_Clothes Leggings",
+      "item.blackarmorboots.name": "Black Boots",
+      "item.theultimateclothesmod.black_clothes_2armor_leggings": "Black Shorts",
+      "item.red_clothes_2armorlegs.name": "Red Shorts",
+      "item.yellow_fabric.name": "Black Fabric",
+      "item.theultimateclothesmod.pink_clothesarmor_chestplate": "Pink_Clothes Chestplate",
+      "item.theultimateclothesmod.yellow_clothes_2armor_chestplate": "Yellow Jacket",
+      "item.theultimateclothesmod.yellow_clothes_2armor_leggings": "Yellow Shorts",
+      "item.theultimateclothesmod.black_clothes_2armor_helmet": "Black Hood",
+      "item.theultimateclothesmod.orange_fabric": "Black Fabric",
+      "item.black_flipflopsarmorhelmet.name": "Black_Flipflops Helmet",
+      "item.theultimateclothesmod.yellow_clothesarmor_chestplate": "Yellow Shirt",
+      "item.theultimateclothesmod.blue_clothesarmor_leggings": "Jeans",
+      "item.theultimateclothesmod.black_clothes_2armor_boots": "Black Boots",
+      "item.yellow_clothesarmorhelmet.name": "Yellow Hat",
+      "item.red_clothes_2armorbody.name": "Red Jacket",
+      "item.orange_clothes_2armorlegs.name": "Orange Shorts",
+      "item.theultimateclothesmod.greenarmor_helmet": "Green Hood",
+      "item.theultimateclothesmod.orange_clothesarmor_leggings": "Orange_Clothes Leggings",
+      "item.bluearmorbody.name": "Blue Jacket",
+      "item.theultimateclothesmod.orange_flipflops_armor_leggings": "Orange_Flipflops Leggings",
+      "item.red_bandanaarmorlegs.name": "Red_Bandana Leggings",
+      "item.pink_clothesarmorbody.name": "Pink_Clothes Chestplate",
+      "item.red_clothes_2armorhelmet.name": "Red Hood",
+      "item.pink_clothesarmorhelmet.name": "Pink_Clothes Helmet",
+      "item.theultimateclothesmod.green_clothesarmor_helmet": "Green_Clothes Helmet",
+      "item.theultimateclothesmod.technoblade_armor_chestplate": "Technoblade Chestplate",
+      "item.black_flipflopsarmorbody.name": "Black_Flipflops Chestplate",
+      "item.yellow_clothesarmorlegs.name": "Khakis",
+      "item.black_clothes_2armorlegs.name": "Black Shorts",
+      "item.theultimateclothesmod.black_flipflopsarmor_chestplate": "Black_Flipflops Chestplate",
+      "item.orange_clothesarmorbody.name": "Orange_Clothes Chestplate",
+      "item.green_clothesarmorbody.name": "Green_Clothes Chestplate",
+      "item.theultimateclothesmod.yellow_clothesarmor_boots": "Yellow Shoes",
+      "item.theultimateclothesmod.blue_clothesarmor_boots": "Blue Shoes",
+      "item.theultimateclothesmod.orange_clothesarmor_boots": "Orange_Clothes Boots",
+      "item.theultimateclothesmod.red_flipflops_armor_helmet": "Red_flipflops Helmet",
+      "item.orange_fabric.name": "Black Fabric",
+      "item.theultimateclothesmod.yellow_clothes_2armor_boots": "Yellow Boots"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "theultimateclothesmod",
+    "modName": "The Ultimate Clothes Mod",
+    "version": "1.0.0",
+    "author": "tosha, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.14.4",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.theultimateclothesmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000432115
+}
